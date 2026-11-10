@@ -1,0 +1,13 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "IMP-MOCE"
+site_url: https://imp-moce.github.io/devops-docs/
+repo_name: IMP-MOCE/devops-docs
+repo_url: https://github.com/IMP-MOCE/devops-docs
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
